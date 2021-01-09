@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe\\OneDrive\\Área de Trabalho\\MVC_Overview\\MVC_Overview.csproj",
+      "projectUniqueName": "C:\\Users\\Felipe\\OneDrive\\Área de Trabalho\\Senai\\C#\\MVC_Overview\\MVC_Overview.csproj",
       "projectName": "MVC_Overview",
-      "projectPath": "C:\\Users\\Felipe\\OneDrive\\Área de Trabalho\\MVC_Overview\\MVC_Overview.csproj",
+      "projectPath": "C:\\Users\\Felipe\\OneDrive\\Área de Trabalho\\Senai\\C#\\MVC_Overview\\MVC_Overview.csproj",
       "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Felipe\\OneDrive\\Área de Trabalho\\MVC_Overview\\obj\\",
+      "outputPath": "C:\\Users\\Felipe\\OneDrive\\Área de Trabalho\\Senai\\C#\\MVC_Overview\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
